@@ -1,0 +1,22 @@
+.A{
+    color:thistle;
+    font-size: 50px;
+    text-transform: capitalize;
+}
+.B{
+    color: white;
+    background-color:rgb(124, 80, 124);
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.C{
+    color: white;
+    background-color:rgb(192, 167, 192);
+    font-size: 15px;
+    text-transform: capitalize;
+}
+.D{
+    color:rgb(138, 82, 138);
+    background-color:white;
+    font-size: 15px;
+    text-transform: capitalize;}
